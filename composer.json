@@ -1,0 +1,14 @@
+{
+    "name": "canhtn/wp-webauthn",
+    "description": "wp-webauthn",
+    "keywords": ["wordpress", "plugin", "roots"],
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yrccondor",
+            "email": "",
+            "homepage": ""
+        }
+    ]
+}
